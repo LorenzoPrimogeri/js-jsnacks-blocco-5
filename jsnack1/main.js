@@ -57,7 +57,7 @@ const arrayOggetti = [
 ]
 let somma = 0;
 for (let i = 0; i < arrayOggetti.length; i++) {
-    let element = arrayOggetti[i].lunghezza;
+    let element = arrayOggetti[i].peso;
     somma += element;
 }
 console.log("La somma è:" + somma);
