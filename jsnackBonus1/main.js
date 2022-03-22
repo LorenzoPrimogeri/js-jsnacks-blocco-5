@@ -7,5 +7,4 @@ for (let i = 0; i < array1.length; i++) {
     const element2 = array2[i];
     unione.push(element1);
     unione.push(element2);
-    console.log(unione);
-}
+} console.log(unione);
